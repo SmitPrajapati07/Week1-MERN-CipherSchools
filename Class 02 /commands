@@ -1,1 +1,10 @@
+Basic commands 
+git init ---- Initalization 
+git status ------ Tell the status of my file 
+git add <name>
+git rmm --cached <name>
+git commit -m "Inital Commit"  ------(Intial commit : Message )
+git log 
+git config --global user.name "Cipherschools" --replace-all
+git config user.name 
 
